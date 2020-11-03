@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "858874891070",
+    "firebase_url": "https://myrecipe-e2ecf.firebaseio.com",
+    "project_id": "myrecipe-e2ecf",
+    "storage_bucket": "myrecipe-e2ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858874891070:android:15f5eb3d9fae918b303a6f",
+        "android_client_info": {
+          "package_name": "com.moringaschool.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858874891070-ocdmbs39mg1cgoklmmi1lhk0p3n4jel9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moringaschool.recipeapp",
+            "certificate_hash": "27402d31a119ea0854ff5f01e431b6ebc60a9586"
+          }
+        },
+        {
+          "client_id": "858874891070-639jkh61sfiqg8a68rk0a9e3qt3qo1o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1TjjnEAgOYMg2MHQRuQyAnKmI5v9Yez4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858874891070-639jkh61sfiqg8a68rk0a9e3qt3qo1o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
